@@ -1,0 +1,23 @@
+{
+  "visual": {
+    "name": "Bar Chart",
+    "displayName": "barChart",
+    "guid": "PBI_CV_9894B302_1DFF_4A96_ABFE_BF8588197166_test_santhosh",
+    "visualClassName": "BarChart",
+    "version": "1.0.0.0",
+    "description": "Sample bar chart",
+    "supportUrl": "v-sheruk@microsoft.com",
+    "gitHubUrl": "https://github.com/v-gchalamche/sample_bar_chart_1/tree/certification/PowerBI-visuals-sampleBarChart-main"
+  },
+  "apiVersion": "5.8.0",
+  "author": {
+    "name": "Santhosh",
+    "email": "v-gchalamche@microsoft.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json"
+}
